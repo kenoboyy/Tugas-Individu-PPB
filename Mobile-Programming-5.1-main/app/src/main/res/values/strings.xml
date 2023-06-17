@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scorekeeper</string>
+    <string name="team_1">Team Kenobi</string>
+    <string name="team_2">Team Kenoboyy</string>
+    <string name="initial_count">0</string>
+    <string name="minus_button_description">Minus Button</string>
+    <string name="plus_button_description">Plus Button</string>
+    <string name="night_mode">Dark Mode</string>
+    <string name="day_mode">Light Mode</string>
+</resources>

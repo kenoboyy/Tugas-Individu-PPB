@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TutorialKotlin 4.4</string>
+    <string name="opsi1">Robin</string>
+    <string name="opsi2">Kenobi</string>
+    <string name="opsi3">Kenoboyy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tablayout">tabLayout</string>
+</resources>
